@@ -56,7 +56,7 @@
 - XNet 1.15-2.1.4-beta
 
 ### Changes:
-- [b0bd813](https://github.com/ValhelsiaTeam/Valhelsia/commit/b0bd81351c99546455a930f7a75c4bddfb12f992) - Quark: Fixed the inventory mangment button overlay crafing grind in crafting station.
+- [b0bd813](https://github.com/ValhelsiaTeam/Valhelsia/commit/b0bd81351c99546455a930f7a75c4bddfb12f992) - Quark: Fixed the inventory management button overlay crafting grid in crafting station.
 - [3e0693d](https://github.com/ValhelsiaTeam/Valhelsia/commit/3e0693db84245f135acec3bb5a9493549a43be2b) - Silent Gear: Add stats for Pink Slime Ingot.
 - [43a8d29](https://github.com/ValhelsiaTeam/Valhelsia/commit/43a8d29e47e8f8f122f033b4ecff65e7999104fe) - Silent Gear: Add stats for Steel Rod.
 - [2bc176b](https://github.com/ValhelsiaTeam/Valhelsia/commit/2bc176bb99fadb679bbd74918691d7790a4cb510) - Silent Gear: Some adjustments for Invar.
